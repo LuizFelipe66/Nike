@@ -3,6 +3,7 @@
 <br>
     Projeto Nike
 <br>
+      <img src="./img/nike.png" width="150px" align="center">
 </h1>
 
 <p align="center">Projeto feito com apenas HTML e CSS para aprimorar
